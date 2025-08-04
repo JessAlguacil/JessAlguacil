@@ -22,12 +22,8 @@ Actualmente trabajo para el desarrollo y diseño de software para máquinas / l�
 
 **Contacto**
 
-Si necesitas, puedes contactarme a través de aquí:
+¿Eres fábricante, diseñas maquinaria y necesitas software a medida? Hablemos, puedes contactarme a aquí:
 
-📨 E-mail: alguacil.plcsystem@gmail.com
-
-// REDES SOCIALES //
-
-🎬 YouTube: https://www.youtube.com/c/JesúsAlguacil
+📨 E-mail: info@alguacilplcsystem.com
 
 Saludos
