@@ -1,29 +1,25 @@
-### ¡Hola! Soy Jesús Alguacil, soy programador industrial y me encanta dar vida a las máquinas. 👋
+### ¡Hola! Soy Jesús, consultor y programador industrial.
 
 ![Diseño sin título (1)](https://github.com/JessAlguacil/Siemens-TiaPortal-library-Timer-Modes/assets/54327107/a913a261-fa14-4a21-84ec-802bc2ea7aa9)
 
+Ayudo a fabricantes de maquinaria e ingenierías a desarrollar software de control robusto, escalable y bien documentado.
 
-**Sobre mi**
+Trabajo como consultor en automatización industrial, especializado en desarrollar el software completo de control (PLC + HMI + SCADA) para maquinaria industrial y líneas de producción.
 
-Llevo 20 años trabajando en el sector de la automatización industrial, empecé como mecatrónico fabricando piezas en centros CNC e instalando cuadros eléctricos para maquinaria industrial.
+Me especializo en PLCs programados en Texto Estructurado (ST), interfaces HMI intuitivas y sistemas SCADA, con foco en arquitectura profesional y calidad del código.
 
-Especializándome en diseño 3D e instalaciones eléctricas de baja tensión para máquinas CNC, a finales de la década del 2000 decidí virar para la rama de la programación e informática industrial, dedicándome a ello desde el 2014, realizando hasta la fecha desde la programación PLC para aplicaciones de transelevadores, paletizadoras de piezas, hasta el diseño y programación de aplicaciones scada para el sector vinícola.
+🔧 +20 años en automatización industrial
+📈 De técnico mecatrónico a partner técnico
+🧠 Experiencia en sectores como logística, envasado, vinícola y más
 
-Del 2020 a finales del 2022 fui dueño de mi propio negocio en el sector industrial dedicado al desarrollo específico de software para maquinaria industrial, en una de las zonas más emblemáticas de la subbética cordobesa.
+💡 ¿Qué ofrezco?
+✔️ Programación avanzada en ST (TIA Portal, Codesys…)
+✔️ Interfaces HMI claras y configurables
+✔️ Estándares, modularidad y documentación de calidad
 
-Actualmente trabajo para el desarrollo y diseño de software para máquinas / líneas y plantas de producción a nivel de programación de PLC / SCADA / HMI.
+🤝 ¿Colaboramos? Trabajo por proyectos.
+Colaboro con fabricantes de maquinaria e integradores que buscan un desarrollador técnico externo especializado en automatización industrial.
 
-**Tecnologías**
+Si necesitas un partner técnico fiable para desarrollar el software completo de tu máquina o línea de producción:
 
-- 🔵 Programación de Plc's de las principales marcas marcas (Siemens, Omron, Panasonic, beckhoff, Codesys)
-- 🔵 Especialista de software PLC utilizando lenguajes de programación estructrado según la norma IEC 61131-3
-- 🔵 Diseño de aplicaciones y redes industriales con ModBus, EtherCat, ProfiNet y OPC UA
-- 🔵 Diseño de interfaces gráficas para el desarrollo de entornos Scada - HMI
-
-**Contacto**
-
-¿Eres fábricante, diseñas maquinaria y necesitas software a medida? Hablemos, puedes contactarme a aquí:
-
-📨 E-mail: info@alguacilplcsystem.com
-
-Saludos
+📩 Escríbeme: info@alguacilplcsystem.com
