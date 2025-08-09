@@ -15,7 +15,11 @@ Me especializo en PLCs programados en Texto Estructurado (ST), interfaces HMI in
 💡 ¿Qué ofrezco?
 ✔️ Programación avanzada en ST (TIA Portal, Codesys…)
 ✔️ Interfaces HMI claras y configurables
-✔️ Estándares, modularidad y documentación de calidad
+✔️ Estándares, modularidad y documentación de calidad 
+
+- ✅ Designed for **FPWIN Pro 7 (Panasonic)**
+- ✅ Designed for **TIA PORTAL V16 OR Later (Siemens)**
+- ✅ Designed for **SYSMAC STUDIO (Omron)**
 
 🤝 ¿Colaboramos? Trabajo por proyectos.
 Colaboro con fabricantes de maquinaria e integradores que buscan un desarrollador técnico externo especializado en automatización industrial.
