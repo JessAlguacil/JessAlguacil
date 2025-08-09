@@ -11,7 +11,6 @@ Me especializo en PLCs programados en Texto Estructurado (ST), interfaces HMI in
 - 🔧 +20 años en automatización industrial
 - 📈 De técnico mecatrónico a partner técnico
 - 🧠 Experiencia en sectores como logística, envasado, vinícola y más
-🔧 +20 años en automatización industrial
 
 💡 ¿Qué ofrezco?
 - ✅ Programación avanzada en ST (TIA Portal, Codesys…)
