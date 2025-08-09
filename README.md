@@ -8,15 +8,15 @@ Trabajo como consultor en automatización industrial, especializado en desarroll
 
 Me especializo en PLCs programados en Texto Estructurado (ST), interfaces HMI intuitivas y sistemas SCADA, con foco en arquitectura profesional y calidad del código.
 
-- 🔧 +20 años en automatización industrial**
-- 📈 De técnico mecatrónico a partner técnico**
-- 🧠 Experiencia en sectores como logística, envasado, vinícola y más **
+- 🔧 +20 años en automatización industrial
+- 📈 De técnico mecatrónico a partner técnico
+- 🧠 Experiencia en sectores como logística, envasado, vinícola y más
 🔧 +20 años en automatización industrial
 
 💡 ¿Qué ofrezco?
-- ✅ Programación avanzada en ST (TIA Portal, Codesys…)**
-- ✅ Interfaces HMI claras y configurables**
-- ✅ Estándares, modularidad y documentación de calidad **
+- ✅ Programación avanzada en ST (TIA Portal, Codesys…)
+- ✅ Interfaces HMI claras y configurables
+- ✅ Estándares, modularidad y documentación de calidad
 
 🤝 ¿Colaboramos? Trabajo por proyectos.
 Colaboro con fabricantes de maquinaria e integradores que buscan un desarrollador técnico externo especializado en automatización industrial.
