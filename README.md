@@ -1,6 +1,6 @@
 ### ¡Hola! Soy Jesús, consultor y programador industrial.
+<img width="1280" height="300" alt="bannergithub" src="https://github.com/user-attachments/assets/963b3034-e583-4581-894a-4a98c194ec0c" />
 
-![Diseño sin título (1)](https://github.com/JessAlguacil/Siemens-TiaPortal-library-Timer-Modes/assets/54327107/a913a261-fa14-4a21-84ec-802bc2ea7aa9)
 
 Ayudo a fabricantes de maquinaria e ingenierías a desarrollar software de control robusto, escalable y bien documentado.
 
